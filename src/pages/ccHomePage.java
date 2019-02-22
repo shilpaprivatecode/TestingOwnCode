@@ -37,4 +37,10 @@ public class ccHomePage {
             return    homePageUserName.getText();
 
            }
+        
+        public String getHomePageDashboardUserName2(){
+
+            return    homePageUserName.getText();
+
+           }
 }
